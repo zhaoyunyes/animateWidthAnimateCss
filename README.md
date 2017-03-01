@@ -1,0 +1,2 @@
+# animateWidthAnimateCss
+和animate.css结合使用的jquery动画插件
